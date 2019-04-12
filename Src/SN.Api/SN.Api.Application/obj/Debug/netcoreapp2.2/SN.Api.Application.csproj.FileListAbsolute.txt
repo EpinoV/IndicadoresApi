@@ -1,0 +1,9 @@
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api.Application\bin\Debug\netcoreapp2.2\SN.Api.Application.deps.json
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api.Application\bin\Debug\netcoreapp2.2\SN.Api.Application.dll
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api.Application\obj\Debug\netcoreapp2.2\SN.Api.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api.Application\obj\Debug\netcoreapp2.2\SN.Api.Application.AssemblyInfoInputs.cache
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api.Application\obj\Debug\netcoreapp2.2\SN.Api.Application.AssemblyInfo.cs
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api.Application\bin\Debug\netcoreapp2.2\SN.Api.Application.pdb
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api.Application\obj\Debug\netcoreapp2.2\SN.Api.Application.dll
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api.Application\obj\Debug\netcoreapp2.2\SN.Api.Application.pdb
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api.Application\obj\Debug\netcoreapp2.2\SN.Api.Application.csprojAssemblyReference.cache

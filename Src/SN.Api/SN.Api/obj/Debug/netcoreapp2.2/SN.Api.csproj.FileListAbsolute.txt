@@ -1,0 +1,17 @@
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\bin\Debug\netcoreapp2.2\SN.Api.deps.json
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\bin\Debug\netcoreapp2.2\SN.Api.runtimeconfig.json
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\bin\Debug\netcoreapp2.2\SN.Api.runtimeconfig.dev.json
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\bin\Debug\netcoreapp2.2\SN.Api.dll
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\bin\Debug\netcoreapp2.2\SN.Api.pdb
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\obj\Debug\netcoreapp2.2\SN.Api.csproj.CoreCompileInputs.cache
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\obj\Debug\netcoreapp2.2\SN.Api.RazorAssemblyInfo.cache
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\obj\Debug\netcoreapp2.2\SN.Api.RazorAssemblyInfo.cs
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\obj\Debug\netcoreapp2.2\SN.Api.AssemblyInfoInputs.cache
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\obj\Debug\netcoreapp2.2\SN.Api.AssemblyInfo.cs
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\obj\Debug\netcoreapp2.2\SN.Api.RazorTargetAssemblyInfo.cache
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\obj\Debug\netcoreapp2.2\SN.Api.dll
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\obj\Debug\netcoreapp2.2\SN.Api.pdb
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\obj\Debug\netcoreapp2.2\SN.Api.csprojAssemblyReference.cache
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\bin\Debug\netcoreapp2.2\SN.Api.Application.dll
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\bin\Debug\netcoreapp2.2\SN.Api.Application.pdb
+D:\Projects\Labs\SeNegocia\Src\SN.Api\SN.Api\obj\Debug\netcoreapp2.2\SN.Api.csproj.CopyComplete
